@@ -1,0 +1,2 @@
+
+X ray recognition is a Python project, the purpose is to recognise with x-ray picture of lungs if a patient could present a risk of Pneumonia. I developed a Machine learning model trained with a many pictures to predict if a patient has pneumonia or not.
