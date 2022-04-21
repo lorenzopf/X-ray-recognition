@@ -15,7 +15,7 @@ https://www.linkedin.com/in/lorenzo-pasquier-flaud-277672136/
 <h3 align="center">X ray recognition</h3>
 
   <p align="center">
-    X ray recognition is a Python project, the purpose is to recognize with x-ray picture of lungs if a patient could present a risk of Pneumonia. I developed a Machine learning model trained with many pictures to predict if a patient has pneumonia symptoms.
+    X ray recognition is a Python project, the purpose is to recognize with x-ray picture of lungs if a patient could present a risk of Pneumonia. Is developed here a Machine learning model trained with many pictures to predict if a patient has pneumonia symptoms.
   </p>
 </div>
 
@@ -44,7 +44,7 @@ https://www.linkedin.com/in/lorenzo-pasquier-flaud-277672136/
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-I did this project during two weeks in school. I chose this topic because it was during the COVID period (1st Lockdown) and I found the idea really innovative and useful to predict if a patient could be detected as sick or not just with X-ray picture and Datascience. The predictions are based on a great numbers of pictures, the Machine Learning model is trained and evaluated with clusters of pictures. Here the Illness is Pneumonia, so the X-ray pictures are only based on lungs.
+The purpose of this project was to develop a project with image recognition in Python during two weeks. This topic was really full of meaning because it was during the COVID period (1st Lockdown) and the idea was really innovative and useful to predict if a patient could be detected as sick or not just with X-ray picture and Datascience. The predictions are based on a great number of pictures, the Machine Learning model is trained and evaluated with clusters of pictures. Here the Illness is Pneumonia, so the X-ray pictures are only based on lungs.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
